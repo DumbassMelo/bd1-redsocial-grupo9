@@ -1,2 +1,3 @@
-#Red social estudiantil Pascualina
-#Miguel angel quintero quiroz
+Red social estudiantil Pascualina
+
+Miguel angel quintero quiroz
