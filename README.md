@@ -1,1 +1,2 @@
-# bd1-redsocial-grupo9
+Red social estudiantil Pascualina
+Miguel angel quintero quiroz
